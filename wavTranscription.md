@@ -6,8 +6,7 @@ to split it into smaller chunks and finally save a consolidated transcript.
 
 ### 0. Prerequisites
 Setup your environment
-
-
+```
 $ sudo apt install virtualenv
 $ cd ~/vad_transcriber
 $ virtualenv -p python3 venv
